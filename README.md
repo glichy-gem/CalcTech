@@ -1,9 +1,5 @@
 # CalcTech: Cutting-edge Scientific Calc App
 
-<p align="center">
-  <img src="app_icon.png" alt="CalcTech Logo" width="150">
-</p>
-
 Welcome to CalcTech, an advanced scientific calculator app developed exclusively for Android devices. Engineered with precision and user-friendliness in mind, CalcTech aims to provide a comprehensive suite of scientific features to fulfill all your calculation needs.
 
 ## Features 🌟
@@ -26,7 +22,9 @@ Welcome to CalcTech, an advanced scientific calculator app developed exclusively
 
 ## Getting Started 🚀
 
-1. **Clone the Repository:** Copy the project to your local machine using the following command: `git clone https://github.com/your-username/CalcTech.git`.
+To get started with the CalcTech app:
+
+1. **Clone the Repository:** Copy the project to your local machine using the following command: `git clone https://github.com/glichy-gem/CalcTech.git`.
 
 2. **Open in Android Studio:** Launch Android Studio and open the CalcTech project.
 
